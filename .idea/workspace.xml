@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92b545e3-825f-4516-b1be-ee8838eff0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diaryWithLayers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/DiaryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/DiaryRepoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/request/DiaryRegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/response/DiaryRegisterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/DiaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/DiaryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DiaryRepoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/servicesTest/DiaryServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N6xexgT9IBUmMFAlrCrXeIwidK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dtos.response" />
+      <recent name="dtos" />
+      <recent name="services" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="data.repositories" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EntryRepoImplTest.testThatEntryCanBeFindById">
+    <configuration name="DiaryRepoImplTest.diaryCanBeFoundAfterCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diaryWithLayers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiaryRepoImplTest" />
+      <option name="METHOD_NAME" value="diaryCanBeFoundAfterCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryRepoImplTest.testThatDiaryCanBeDeleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diaryWithLayers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiaryRepoImplTest" />
+      <option name="METHOD_NAME" value="testThatDiaryCanBeDeleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntryRepoImplTest.testThatEntryCanBeFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diaryWithLayers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.EntryRepoImplTest" />
+      <option name="METHOD_NAME" value="testThatEntryCanBeFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntryServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diaryWithLayers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.EntryServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntryServiceImplTest.testThatEntryCanBeDeleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diaryWithLayers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.EntryServiceImplTest" />
+      <option name="METHOD_NAME" value="testThatEntryCanBeDeleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EntryRepoImplTest.testThatEntryCanBeFindById" />
+        <item itemvalue="JUnit.DiaryRepoImplTest.diaryCanBeFoundAfterCreation" />
+        <item itemvalue="JUnit.EntryServiceImplTest.testThatEntryCanBeDeleted" />
+        <item itemvalue="JUnit.EntryServiceImplTest" />
+        <item itemvalue="JUnit.DiaryRepoImplTest.testThatDiaryCanBeDeleted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b545e3-825f-4516-b1be-ee8838eff0e4" name="Changes" comment="" />
+      <created>1678998435337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678998435337</updated>
+      <workItem from="1678998437094" duration="23276000" />
+      <workItem from="1679165483732" duration="2105000" />
+      <workItem from="1679179083958" duration="464000" />
+      <workItem from="1679220936998" duration="10100000" />
+      <workItem from="1679343861423" duration="1814000" />
+      <workItem from="1679347662146" duration="25000" />
+      <workItem from="1679350021659" duration="1352000" />
+      <workItem from="1679377979353" duration="1040000" />
+      <workItem from="1679401365673" duration="10000" />
+      <workItem from="1679410064566" duration="4166000" />
+      <workItem from="1679511448672" duration="18000" />
+      <workItem from="1679576945924" duration="21574000" />
+      <workItem from="1679733319988" duration="383000" />
+      <workItem from="1679749978504" duration="969000" />
+      <workItem from="1679763041651" duration="610000" />
+      <workItem from="1680195618521" duration="729000" />
+      <workItem from="1680309579483" duration="67000" />
+      <workItem from="1680894744162" duration="214000" />
+      <workItem from="1680895615686" duration="2122000" />
+      <workItem from="1681608145830" duration="44000" />
+      <workItem from="1682961968249" duration="159000" />
+      <workItem from="1682962217098" duration="74000" />
+      <workItem from="1683070005929" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
